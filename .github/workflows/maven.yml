@@ -5,9 +5,9 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ master, pdfbox-3.0.0 ]
+    branches: [ '*' ]
   pull_request:
-    branches: [ master, pdfbox-3.0.0 ]
+    branches: [ '*' ]
 
 jobs:
   build:
