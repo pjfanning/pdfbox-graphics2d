@@ -10,7 +10,6 @@
   	<packaging>pom</packaging>
 	<url>https://github.com/rototor/pdfbox-graphics2d</url>
 
-
 	<licenses>
 		<license>
 			<name>Apache License, Version 2.0</name>
